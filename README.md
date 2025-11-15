@@ -1,5 +1,5 @@
 # 💫 About Me:
-Small dev who learns on verious ways to improve myself
+I'm a passionate developer who thrives on trial and error. I believe that the best way to learn is by experimenting, failing, and iterating—whether it's writing code, building projects, or exploring new technologies. I tackle problems from every plausible angle, constantly pushing boundaries and finding creative solutions. For me, every bug is an opportunity, every error a lesson, and every line of code a step toward mastery.
 
 
 ## 🌐 Socials:
